@@ -1936,6 +1936,16 @@ footer hr {
     border-right: none;
 }
 
+.footer_link {
+	display: block;
+	text-decoration: none;
+	color: #a2a2a2;
+}
+
+.footer_link:hover {
+	text-decoration: none;
+}
+
 /* =Media Queries
 -------------------------------------------------------------- */
 @media (max-width:767px) {
