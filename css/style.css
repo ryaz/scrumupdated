@@ -916,8 +916,10 @@ ul.social-buttons li a:active {
 	font-weight: 400;
 }
 
-.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover,
-.footer_link:focus, .footer_link:hover {
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.footer_link:focus,
+.footer_link:hover {
 	color: rgba(255, 255, 255, 0.60);
 	background-color: transparent;
 	-webkit-transition: color 0.5s ease 0s;
@@ -926,7 +928,9 @@ ul.social-buttons li a:active {
 	transition: color 0.5s ease 0s;
 }
 
-.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover {
+.navbar-default .navbar-nav > .open > a,
+.navbar-default .navbar-nav > .open > a:focus,
+.navbar-default .navbar-nav > .open > a:hover {
 	color: #8980fe;
 	background-color: transparent;
 }
@@ -935,7 +939,9 @@ ul.social-buttons li a:active {
 	margin-right: 15px;
 }
 
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > .active > a:hover {
 	color: #8980fe;
 	background-color: transparent;
 }
@@ -951,7 +957,8 @@ ul.social-buttons li a:active {
 	font-size: 12px;
 }
 
-.dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
 	color: rgba(255, 255, 255, 0.60);
 	text-decoration: none;
 	background-color: transparent;
